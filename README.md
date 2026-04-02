@@ -16,7 +16,12 @@
 
 ## Run Locally
 ```bash
-![Data Explorer Dashboard](https://github.com/user-attachments/assets/c3a968d6-a2c6-424d-b3e3-d754fcdf908b)
+
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c3a968d6-a2c6-424d-b3e3-d754fcdf908b" width="800"/>
+</p>
 
 
 
