@@ -16,6 +16,7 @@
 
 ## Run Locally
 ```bash
-<img width="1911" height="840" alt="Screenshot 2026-04-02 012341" src="https://github.com/user-attachments/assets/4ac3e879-d909-4c64-ad11-cb9380c8252a" />
+![Data Explorer Dashboard](https://github.com/user-attachments/assets/c3a968d6-a2c6-424d-b3e3-d754fcdf908b)
+
 
 
