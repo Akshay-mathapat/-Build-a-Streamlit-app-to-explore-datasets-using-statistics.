@@ -16,12 +16,9 @@
 
 ## Run Locally
 ```bash
+<img width="1896" height="831" alt="1" src="https://github.com/user-attachments/assets/2caaaa73-050b-4b1c-a27c-cf641451a92a" />
 
-## 📊 Dashboard Preview
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c3a968d6-a2c6-424d-b3e3-d754fcdf908b" width="800"/>
-</p>
 
 
 
