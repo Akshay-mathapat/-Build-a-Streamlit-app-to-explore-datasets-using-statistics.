@@ -13,10 +13,7 @@
 - Pandas
 - Matplotlib
 - Seaborn
-
-## Run Locally
-```bash
-<img width="1896" height="831" alt="1" src="https://github.com/user-attachments/assets/2caaaa73-050b-4b1c-a27c-cf641451a92a" />
+<img width="1894" height="861" alt="Screenshot 2026-04-02 014429" src="https://github.com/user-attachments/assets/cd887e66-1519-4f9c-9407-41c3dcb05df9" />
 
 
 
